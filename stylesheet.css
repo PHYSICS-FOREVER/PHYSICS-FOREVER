@@ -1,0 +1,22 @@
+.Title{
+      color:#ff0000;
+      background-color:#dddddd;
+      font-size:80px;
+}
+h2{
+  color:#0000ff;
+  background-color:#ffd800;
+  width:1500px;
+  height:60px;
+  margin:10px;
+}
+h3{
+  color:#9de8ea;
+
+}
+img{
+    padding-left:500px;
+}
+h4{
+  float:right;
+}
